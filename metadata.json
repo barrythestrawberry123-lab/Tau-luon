@@ -1,0 +1,6 @@
+{
+  "name": "Công Trường Tàu Lượn Vui Nhộn",
+  "description": "Hiện trường thi công tàu lượn siêu tốc công viên giải trí: Điều khiển kỹ sư khảo sát các mảnh ghép đồ thị Toán 12 từ tài liệu, đúng 6 câu bất kỳ để nhận FULL MÃ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
